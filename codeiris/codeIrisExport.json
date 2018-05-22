@@ -1,0 +1,1 @@
+[{"packageName":"com.example.josep.lottery","superClass":null,"className":"Lottery","associations":[],"usages":["com.example.josep.lottery.Results"],"interfaces":[],"type":"CLASS"},{"packageName":"com.example.josep.lottery","superClass":null,"className":"Results","associations":["com.example.josep.lottery.Lottery"],"usages":[],"interfaces":[],"type":"CLASS"}]
